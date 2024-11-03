@@ -1,16 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Railway Ticketing System
+  # role: Co-Founder & Organizer
+  duration: August 2024  &mdash; November 2024
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Created an intelligent ticketing system to streamline online ticket purchases and support high traffic (hundreds of thousands of users simultaneously).
+
+# jazznotes.io
+- project: Remote File Security Transmission System
+  # role: Founder & Primary Developer
+  duration: May 2024 &mdash; June 2024
+  # url: "#"
+  description: Developed a secure file transmission system in Java for client-server architecture to ensure file integrity and confidentiality during transmission.
+
