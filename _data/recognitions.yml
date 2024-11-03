@@ -1,5 +1,5 @@
 # Recognitions
-- award: Spikewhisper Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices
+- award: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices
   organization: ICONIP
   year: 2024
   summary: In this paper, we start to explore a novel vulnerability of FedNL-based systems with the concept of time division multiplexing, termed Spikewhisper, which allows attackers to evade detection as much as possible, as multiple malicious clients can imperceptibly poison with different triggers at different timeslices.
