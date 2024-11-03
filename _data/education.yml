@@ -3,11 +3,12 @@
   uni: Shanghai Jiao Tong University
   year: 2023 &mdash; 2026
   awards:
-    - award: Shanghai Jiao Tong University Academic Scholarship
+    - award: Academic Scholarship, Shanghai Jiao Tong University
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: Bachelor of Engineering, Cyberspace Security
   uni: Southeast University
   year: 2019 &mdash; 2023
-  award: Three Good Student Award, Southeast University
+  award: 
+    - award: Three Good Student Award, Southeast University
   # summary: You can choose to have either a single or multiple awards
