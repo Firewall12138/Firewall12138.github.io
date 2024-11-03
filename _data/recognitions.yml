@@ -1,10 +1,10 @@
 # Recognitions
 - award: Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices
   organization: ICONIP 2024
-  # year: 2010, 2014
-  summary:Federated neuromorphic learning (FedNL) leverages event-driven spiking neural networks and federated learning frameworks to effectively execute intelligent analysis tasks over amounts of distributed low-power devices but also perform vulnerability to poisoning attacks. The threat of backdoor attacks on traditional deep neural networks typically comes from time-invariant data. However, in FedNL, unknown threats may be hidden in time-varying spike signals. In this paper, we start to explore a novel vulnerability of FedNL-based systems with the concept of time division multiplexing, termed Spikewhisper, which allows attackers to evade detection as much as possible, as multiple malicious clients can imperceptibly poison with different triggers at different timeslices. In particular, the stealthiness of Spikewhisper is derived from the time-domain divisibility of global triggers, in which each malicious client pastes only one local trigger to a certain timeslice in the neuromorphic data, and also the polarity and motion of each local trigger can be configured by attackers. Extensive experiments based on two different neuromorphic datasets demonstrate that the attack success rate of Spikewhisper is higher than the temporally centralized attacks. Besides, it is validated that the effect of Spikewhisper is sensitive to the trigger duration.
+  year: CCF C-level conference
+  summary: In this paper, we start to explore a novel vulnerability of FedNL-based systems with the concept of time division multiplexing, termed Spikewhisper, which allows attackers to evade detection as much as possible, as multiple malicious clients can imperceptibly poison with different triggers at different timeslices.
 
 # - award: Most Likely To Succeed
 #   organization: Springfield High School
-#   year: 2004
+#   year: CCF-C
 #   summary: Voted Most Likely To Succeed by a panel of my high school peers.
