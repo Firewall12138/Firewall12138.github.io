@@ -1,12 +1,18 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+- skill: Programming
+  description: Proficient in Java (collections, encapsulation, inheritance, polymorphism, generics, reflection, proxies, exceptions).
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
+- skill: Frameworks
+  description: Experienced with Spring, SpringMVC, SpringBoot, MyBatis, with a solid understanding of IOC and AOP.
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Networking
+  description: Knowledgeable in TCP/IP, HTTP/HTTPS protocols.
+
+  # Digital content development and creation
+- skill: Operating Systems
+  description: Familiar with multithreading, process management, memory segmentation, and paging.
+
+  # Digital content development and creation
+- skill: Data Structures & Algorithms
+  description: Skilled in using stacks, queues, binary trees, and various algorithms like binary search, backtracking, BFS, DFS, and dynamic programming.
