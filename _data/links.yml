@@ -1,5 +1,11 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+# - url: "#"
+#   description: Springfield Jazz Enthusiasts
+# - url: "#"
+#   description: Springfield Young Professionals
+
+- project: ByteDance Financial Business
+  role: Backend Development Intern
+  duration: March 2025 &mdash; July 2025
+  # url: "#"
+  description: Relying on the technological capabilities and products of Douyin Group, we provide financial services for scenarios such as Douyin e-commerce, lifestyle services, and live - streaming. We offer better financial services including payments, consumer finance, insurance, etc. to Douyin users.
