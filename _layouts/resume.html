@@ -83,7 +83,7 @@
           <h2>Internship</h2>
         </header>
 
-        {% for project in site.data.projects %}
+        {% for link in site.data.links %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if link.url %}<a href="{{ link.url }}" itemprop="url">{{ link.project }}</a>{% else %}{{ link.project }}{% endif %}</h3>
